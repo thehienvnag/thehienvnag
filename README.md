@@ -2,9 +2,9 @@
 I am a developer with great interest for developing software. 
 
 ### What I am interested in:
-  * Position: Web App Developer
-  * Language: JavaScript
-  * Framework: React.js, Vue.js, Angular
+  * Position: Fullstack Web Developer
+  * Language: JavaScript, C#, .NET
+  * Framework: React.js, Vue.js, Angular, .NET 5, EF Core 
 
 ### Contact me on: 
   * GitHub: _https://github.com/thehienvnag_
