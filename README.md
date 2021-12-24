@@ -1,5 +1,5 @@
 ### Hi there, 👋 I'm Huynh The Hien (thehienvnag)
-**krisode** is my ✨ _special nickname_ ✨. It's a combination of my English name Kris and Code, which expresses my passion to coding. 
+I am a developer with great interest for developing software. 
 
 ### What I am interested in:
   * Position: Web App Developer
