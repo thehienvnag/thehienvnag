@@ -2,7 +2,7 @@
 I am a developer with great interest for developing software. 
 
 ### What I am interested in:
-  * Position: Fullstack Web Developer
+  * Position: Fullstack Engineer
   * Language: JavaScript, Java
   * Framework: React.js, Spring WebFlux, Spring Boot
 
