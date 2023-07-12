@@ -1,4 +1,4 @@
-### Hi there, 👋 I'm Huynh The Hien (thehienvnag)
+### Hi there, 👋 I'm Huynh The Hien (Ivan)
 I am a developer with great interest for developing software. 
 
 ### What I am interested in:
