@@ -3,8 +3,8 @@ I am a developer with great interest for developing software.
 
 ### What I am interested in:
   * Position: Fullstack Web Developer
-  * Language: JavaScript, C#, .NET
-  * Framework: React.js, Vue.js, Angular, .NET 5, EF Core 
+  * Language: JavaScript, Java
+  * Framework: React.js, Spring WebFlux, Spring Boot
 
 ### Contact me on: 
   * GitHub: _https://github.com/thehienvnag_
